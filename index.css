@@ -6,14 +6,16 @@
 	margin-left: 48%;
 }
 .share{
-	margin-left: 5%;
+	margin-left: 20%;
 }
 .buto{
 	width: 100%;
 }
 .navis{
 	margin-left: 35%;
-  width: 50%;
+}
+.account{
+	margin-left: 150px;
 }
 .dot{
 	margin-left: 30%;
@@ -21,13 +23,16 @@
 .space{
 	margin-left: 0;
 }
-.view{
-	margin-left: 10%;
+.views{
+	margin-left: 20%;
 }
 .btn{
 	margin-bottom: 10px;
 }
 .jumbotron{
-	background-image: url(https://cdn.pixabay.com/photo/2017/06/04/16/32/clouds-2371482_960_720.jpg);
-	
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvpR7ewwvh5JRbl8pJbb_i5UlO-xJBAxdsNALmHBZlcIyLxNVYQQ&s);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 100% 100%;
+
 }
